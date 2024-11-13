@@ -30,7 +30,7 @@ export default function NotesList({ onSelectNote, activeNote }) {
               }}
               className="text-red-500 hover:text-red-700 dark:hover:text-red-400 p-1"
             >
-              <DeleteIcon />
+              Delete
             </button>
           </div>
         </div>
